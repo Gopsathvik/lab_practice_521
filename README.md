@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Data Scientist
-## Master in Data Science
+## Master in Data Science (MDS), University of British Columbia
 ### first Block is tightened
 
 
